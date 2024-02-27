@@ -3,7 +3,7 @@ name: Merge Develop To Main
 on:
   push:
     branches:
-      - sehyun
+      - develop
 
 jobs:
   merge:
