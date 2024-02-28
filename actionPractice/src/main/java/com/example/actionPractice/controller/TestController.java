@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping("/testString")
     public String getTestString() {
-        return "testString";
+        return "testString2222";
     }
 }
